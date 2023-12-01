@@ -1,6 +1,7 @@
 body{
     font-family: 'Nunito Sans', sans-serif;
 }
+/* header section */
 .header{
     background-image: url("images/banner/banner1.png");
     height: 50rem;
