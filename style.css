@@ -126,4 +126,31 @@ body{
     font-weight: 800;
     border-radius: 6px;
   } 
- 
+  /* footer section */
+  footer{
+    background-color: black;
+    display:flex;
+    color:white;
+    margin-top: 120px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  .f1{
+    margin-left: 190px;
+  }
+  .f-image{
+    display:flex;
+  }
+  .f2{
+    margin-left: 17rem;
+  }
+  input{
+    height:3rem;
+    width:16rem;
+    background-color: black;
+    border:1px solid white;
+    border-radius: 6px;
+  }
+  p{
+    color:gray;
+  }
