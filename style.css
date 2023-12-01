@@ -29,6 +29,7 @@ body{
     font-size: 15px;
     padding:15px 30px;
 }
+/* main section */
 .m-section{
     display: flex;
 }
